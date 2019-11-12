@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1275 1275" style="enable-background:new 0 0 1275 1275;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;}
+	.st2{fill:none;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#2B65B8;}
+	.st5{display:none;fill:#2B29B8;}
+	.st6{fill:#FFB73F;}
+	.st7{fill:#FCCD4B;}
+	.st8{fill:#FFDC7F;}
+	.st9{fill:#FDD95B;}
+	.st10{fill:#FF9933;}
+	.st11{fill:#FFE67F;}
+	.st12{fill:#FFEB9A;}
+	.st13{fill:#FCCD4C;}
+	.st14{fill:#FFF5AB;}
+	.st15{fill:#FFE56C;}
+	.st16{font-family:'Supercell-Magic';}
+	.st17{font-size:700px;}
+	.st18{display:inline;fill:#FFB73F;}
+	.st19{display:inline;fill:#FFE67F;}
+	.st20{display:inline;fill:#FFF07F;}
+	.st21{display:inline;fill:#FA9551;}
+	.st22{display:inline;fill:#FA9F51;}
+	.st23{display:inline;fill:#F46324;}
+	.st24{display:inline;fill:#F46D24;}
+	.st25{fill:#F46324;stroke:#F46324;stroke-width:2;stroke-miterlimit:10;}
+	.st26{fill:#FA9551;stroke:#FA9551;stroke-width:2;stroke-miterlimit:10;}
+	.st27{display:inline;fill:#FFC13F;}
+	.st28{font-size:738.4604px;}
+</style>
+<g id="Baggrund" class="st0">
+	<rect x="-502.5" y="-465" class="st1" width="2000" height="2000"/>
+</g>
+<g id="Inspiration" class="st0">
+	
+		<image style="overflow:visible;" width="800" height="600" xlink:href="AF795FA4.jpg"  transform="matrix(1.985 0 0 1.985 -248.5 -285)">
+	</image>
+	
+		<image style="display:inline;overflow:visible;" width="500" height="500" xlink:href="AF795FA4.png"  transform="matrix(4.714 0 0 4.714 1587.5 -670)">
+	</image>
+	
+		<image style="overflow:visible;" width="1429" height="817" xlink:href="AF795FA3.jpg"  transform="matrix(1.154 0 0 1.154 -270.5 -369)">
+	</image>
+	<polygon class="st2" points="1122.5,1020 1082.5,995 1092.5,935 1132.5,830 	"/>
+	<polygon class="st3" points="850.5,215 637.5,55 637.5,0 850.5,173 	"/>
+	<g id="Lag_8">
+		
+			<image style="display:inline;overflow:visible;" width="630" height="630" xlink:href="AF795FAC.jpg"  transform="matrix(1 0 0 1 -602.7614 220.5016)">
+		</image>
+	</g>
+</g>
+<g id="Ramme">
+	<g id="Ramme_-_Baggrund">
+		<polygon class="st4" points="832.5,215 637.5,55 442.5,215 169.5,215 169.5,990 637.5,1228 1105.5,990 1105.5,215 		"/>
+		<line class="st5" x1="403.5" y1="1237.7" x2="403.5" y2="237.7"/>
+	</g>
+	<g id="Ramme_-_Indre">
+		<polygon class="st6" points="179.5,225 424.5,225 424.5,267 221.5,267 		"/>
+		<polygon class="st7" points="179.5,225 221.5,267 221.5,952.8 179.5,982.8 		"/>
+		<polygon class="st7" points="221.5,952.8 637.5,1169 637.5,1216 179.5,982.8 		"/>
+		<polygon class="st8" points="1053.5,952.8 637.5,1169 637.5,1216 1095.5,982.8 		"/>
+		<polygon class="st9" points="1095.5,982.8 1053.5,952.8 1053.5,267 1095.5,225 		"/>
+		<polygon class="st6" points="1095.5,225 850.5,225 850.5,267 1053.5,267 		"/>
+		<path class="st6" d="M828.2,225L637.5,71v51.4l141.8,118.7c20,16.7,45.2,25.9,71.2,25.9h0v-42L828.2,225z"/>
+		<path class="st10" d="M637.5,71L446.8,225l-22.3,0v42h0c26,0,51.2-9.2,71.2-25.9l141.8-118.7V71z"/>
+	</g>
+	<g id="Ramme_-_Midt">
+		<polygon class="st11" points="446.8,225 179.5,225 169.5,215 442.5,215 		"/>
+		<polygon class="st11" points="1105.5,990 637.5,1228 637.5,1216 1095.5,982.8 		"/>
+		<polygon class="st11" points="1105.5,990 1095.5,982.8 1095.5,225 1105.5,215 		"/>
+		<polygon class="st11" points="1095.5,225 828.2,225 832.5,215 1105.5,215 		"/>
+		<polygon class="st11" points="828.2,225 637.5,71 637.5,55 832.5,215 		"/>
+		<polygon class="st11" points="179.5,982.8 169.5,990 169.5,215 179.5,225 		"/>
+		<polygon class="st11" points="637.5,1228 169.5,990 179.5,982.8 637.5,1216 		"/>
+		<polygon class="st11" points="637.5,71 446.8,225 442.5,215 637.5,55 		"/>
+	</g>
+	<g id="Ramme_-_Ydre">
+		<polygon class="st12" points="1105.5,215 850.5,215 850.5,173 1147.5,173 		"/>
+		<polygon class="st7" points="637.5,0 637.5,55 832.5,215 850.5,215 850.5,173 		"/>
+		<polygon class="st10" points="1147.5,1020 637.5,1275 637.5,1228 1105.5,990 		"/>
+		<polygon class="st13" points="424.5,173 127.5,173 169.5,215 424.5,215 		"/>
+		<polygon class="st14" points="169.5,990 127.5,1020 127.5,173 169.5,215 		"/>
+		<polygon class="st6" points="637.5,1275 127.5,1020 169.5,990 637.5,1228 		"/>
+		<polygon class="st10" points="1147.5,1020 1105.5,990 1105.5,215 1147.5,173 		"/>
+		<polygon class="st15" points="424.5,173 424.5,215 442.5,215 637.5,55 637.5,0 		"/>
+	</g>
+	<g id="Hjælpelinjer" class="st0">
+	</g>
+</g>
+<g id="Lag_10" class="st0">
+	<text transform="matrix(1 0 0 1 346.8217 908.7007)" class="st3 st16 st17">A</text>
+	<g id="Hjælpelinjer_1_" class="st1">
+	</g>
+	<polygon class="st3" points="744,407 637.5,407 637.5,744 739.8,743.2 764.3,833.8 837.2,833.8 	"/>
+	<polygon class="st3" points="828.2,501 764.6,501.6 822.7,767.7 933.7,407 863.4,407 	"/>
+	<path class="st18" d="M968.6,375c-43.6,0-82.2,28-95.7,69.5L851.6,510h-59.8l-57.3-175h-97v498.8l180.2,0L850,935l79.5,0L949,566.6
+		c1.7-31.3,7.4-62.2,17.1-92l32.4-99.6H968.6z"/>
+	<path class="st19" d="M422.9,510l-21.4-65.9c-13.4-41.2-51.8-69.1-95.1-69.1H276l30.7,94.5c10.8,33.2,17.2,67.7,19.1,102.6
+		L345,934.8L482.7,510H422.9z"/>
+	<path class="st20" d="M540,335l-57.3,175h0L345,934.8l0,0.2l79.5,0l25.6-80.1c4-12.5,15.7-21.1,28.8-21.1l158.6,0V335H540z"/>
+	<polygon class="st21" points="549.4,614.7 517.6,712 637.5,696.2 637.5,614 	"/>
+	<polygon class="st22" points="637.5,525.5 583,512 549.4,614.7 637.5,614 	"/>
+	<polygon class="st23" points="757.4,712 725.9,615.5 637.5,614.8 637.5,696.2 	"/>
+	<polygon class="st24" points="692,512 637.5,525.5 637.5,614.8 725.9,615.5 	"/>
+	<line class="st25" x1="813.3" y1="577.6" x2="873" y2="761.1"/>
+	<line class="st26" x1="468" y1="578.6" x2="408.3" y2="762.1"/>
+	<polygon class="st27" points="791.8,510 827.5,620.3 792.2,510 	"/>
+	<path class="st27" d="M929.5,935l0-0.3c0,0-0.1,0-0.1,0L929.5,935z"/>
+	<path class="st27" d="M966.1,474.6l32.4-99.6h-29.9c-43.6,0-82.2,28-95.7,69.5L851.6,510h-59.4l35.3,110.3l101.9,314.4
+		c0,0,0.1,0,0.1,0l19.5-368C950.7,535.3,956.4,504.4,966.1,474.6z"/>
+	<polyline class="st6" points="791.8,510 734.5,335 637.5,335 637.5,833.8 817.7,833.8 850,935 929.5,935 	"/>
+</g>
+<g id="Lag_12" class="st0">
+	<text transform="matrix(1 0 0 1 1193.4521 924.9999)" class="st1 st16 st28">kademiet</text>
+</g>
+</svg>

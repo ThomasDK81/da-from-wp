@@ -1,0 +1,29 @@
+/* Hide the token fields, so we can show the right one with jQuery. */
+.clanroyale-settings-api-token {
+	display: none;
+}
+
+/* Ajax button with loading spinner and check symbols on success. */
+.clanroyale-button-spinner.success:before {
+	content: '\f147';
+	color: #46b450;
+}
+.clanroyale-button-spinner.loading:before {
+	-webkit-animation: rotation 1s linear infinite;
+	animation: rotation 1s linear infinite;
+}
+
+.clanroyale-button-spinner:before {
+	font: normal 20px/0.5 dashicons;
+	display: inline-block;
+	padding: 0;
+	top: 8px;
+	left: -4px;
+	position: relative;
+	vertical-align: top;
+	content: '\f463';
+}
+
+#clanroyale-settings-reset {
+	margin-right: 5px;
+}
